@@ -7,7 +7,7 @@
     form,
     .cbox {
       margin: auto;
-      margin-bottom: 30px;
+      margin-bottom: 32px;
     }
   }
   @media screen and (max-width: 1130px) {

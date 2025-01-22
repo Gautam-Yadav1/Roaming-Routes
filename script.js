@@ -9,7 +9,7 @@ function removeall() {
   $("#pri").on("click", function () {
     removeall();
     $("#pri").css("border", "2px solid whitesmoke");
-    $("#pri").css("border-radius", "20px");
+    $("#pri").css("border-radius", "21px");
   });
   $("#tri").on("click", function () {
     removeall();
